@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Crédito Pessoal Digital",
+    "category": "Crédito Pessoal",
+    "rate": 11.04,
+    "term": 12,
+    "description": "Empréstimo pessoal com contratação digital e liberação imediata."
+  },
+  {
+    "id": 2,
+    "name": "Consignado Servidor Público",
+    "category": "Consignado",
+    "rate": 10.5,
+    "term": 72,
+    "description": "Crédito consignado com desconto em folha para servidores públicos."
+  },
+  {
+    "id": 3,
+    "name": "Crédito Veicular",
+    "category": "Financiamento",
+    "rate": 25.2,
+    "term": 36,
+    "description": "Financiamento para compra de veículos novos ou usados."
+  },
+  {
+    "id": 4,
+    "name": "Home Equity",
+    "category": "Garantido",
+    "rate": 26.16,
+    "term": 60,
+    "description": "Empréstimo com garantia de imóvel e taxas reduzidas."
+  },
+  {
+    "id": 5,
+    "name": "Consignado INSS",
+    "category": "Consignado",
+    "rate": 15.59,
+    "term": 84,
+    "description": "Crédito para aposentados e pensionistas do INSS com desconto em folha."
+  },
+  {
+    "id": 6,
+    "name": "Microcrédito Produtivo",
+    "category": "Empreendedorismo",
+    "rate": 28.21,
+    "term": 24,
+    "description": "Linha de crédito para microempreendedores investirem em seus negócios."
+  },
+  {
+    "id": 7,
+    "name": "Crédito Universitário",
+    "category": "Educação",
+    "rate": 26.42,
+    "term": 48,
+    "description": "Crédito estudantil com carência e parcelamento estendido."
+  },
+  {
+    "id": 8,
+    "name": "Crédito Emergencial",
+    "category": "Pessoal",
+    "rate": 16.72,
+    "term": 6,
+    "description": "Empréstimo emergencial para situações imprevistas."
+  },
+  {
+    "id": 9,
+    "name": "Crédito Reforma",
+    "category": "Habitação",
+    "rate": 25.69,
+    "term": 36,
+    "description": "Crédito para reforma ou construção de imóveis residenciais."
+  },
+  {
+    "id": 10,
+    "name": "Crédito com Garantia de Veículo",
+    "category": "Garantido",
+    "rate": 28.47,
+    "term": 48,
+    "description": "Crédito com garantia de veículo, mantendo o bem em posse do cliente."
+  }
+]
